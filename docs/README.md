@@ -38,16 +38,24 @@ Every OctoAcme project follows a structured lifecycle that ensures quality, alig
 - [**Retrospective & Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md) — Capture learnings and drive ongoing process improvements
 
 ### Supporting Processes
-- [**Risk Management & Communication**](octoacme-risks-and-communication.md) — Identify, manage, and communicate risks and dependencies effectively
-- [**Roles & Personas**](octoacme-roles-and-personas.md) — Understand typical roles, responsibilities, and communication patterns for Developers, Product Managers, and Project Managers
+- [**Risk Management & Communication**](octoacme-risks-and-communication.md) — Identify, manage, and communicate risks and dependencies effectively with clear escalation paths
+- [**Roles & Personas**](octoacme-roles-and-personas.md) — Understand all project roles including Developers, Product Managers, Project Managers, UX Designers, Technical Writers, QA Engineers, Release Managers, Customer Support Liaisons, Security Champions, and Data Analysts
+- [**Role Onboarding Checklist**](octoacme-role-onboarding-checklist.md) — Comprehensive onboarding guides for all roles with responsibilities, touchpoints, and essential skills *(New - see issue #5)*
 
 ## How to Use This Documentation
 
 - **New to OctoAcme?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our approach, then explore phase-specific guides as needed
+- **New to your role?** Check the [Role Onboarding Checklist](octoacme-role-onboarding-checklist.md) for role-specific guidance and essential touchpoints
 - **Starting a new project?** Follow the lifecycle guides in order, beginning with [Project Initiation](octoacme-project-initiation.md)
 - **Looking for specific guidance?** Use the index above to jump directly to the relevant process document
+- **Understanding roles and accountability?** See [Roles & Personas](octoacme-roles-and-personas.md) for detailed role descriptions and [Risk Management & Communication](octoacme-risks-and-communication.md) for escalation paths
 - **Integrating with Copilot Spaces?** Add relevant process docs to your project's `.copilot/` directory to provide context-aware assistance
 
 ## Questions or Feedback?
 
 If you have questions about these processes or suggestions for improvement, reach out to your Project Manager or Product Lead. We continuously refine our practices based on team feedback and retrospective insights.
+
+---
+
+**Related Issues:**
+- Issue #5: [Expanding role clarity and accountability](https://github.com/rolling-falling/skills-scale-institutional-knowledge-using-copilot-spaces/issues/5) - Added 7 new roles/personas and comprehensive onboarding checklist
